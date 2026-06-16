@@ -779,3 +779,10 @@ def timeline(logfile: str):
         return {
             "error": str(e)
         }
+
+from fastapi.staticfiles import StaticFiles
+
+# Serve built frontend assets in production container
+dist_path = Path(__file__).parent.parent / "frontend" / "dist"
+if dist_path.exists():
+    app.mount("/", StaticFiles(directory=str(dist_path), html=True), name="frontend")
