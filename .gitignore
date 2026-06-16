@@ -24,6 +24,13 @@ backend/__pycache__/
 backend/services/__pycache__/
 *.pyc
 
+# Build output
+dist/
+frontend/dist/
+
+# Database files
+backend/database/*.db
+
 # IDEs & System files
 .vscode/
 .idea/
