@@ -356,10 +356,12 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ---
 
-## 👥 Authors
+## 👥 Author
 
-- **Rithvik Kumar** — Full-Stack Development & System Architecture
-- **Bhagyashree PY** — Backend Engineering & RAG Pipeline
+- **Rahul R Kamble** — Full-Stack Development, RAG Pipeline & System Architecture
+  - 📧 rahul.rrk2307@gmail.com
+  - 🔗 [github.com/DevilRK23](https://github.com/DevilRK23)
+  - 🔗 [linkedin.com/in/rahul-rajkumar-kamble23](https://linkedin.com/in/rahul-rajkumar-kamble23)
 
 ---
 
